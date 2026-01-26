@@ -1,4 +1,4 @@
-# NOVA
+# NOVA Hunting
 
 NOVA is an open platform for detecting and hunting adversarial prompts, agent abuse, and AI system misuse.
 
