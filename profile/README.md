@@ -1,12 +1,31 @@
-## Hi there 👋
+# NOVA Hunting
 
-<!--
+NOVA is an open platform for detecting and hunting adversarial prompts, agent abuse, and AI system misuse.
 
-**Here are some ideas to get you started:**
+It focuses on visibility, detection, and policy enforcement across modern AI workflows, including chat systems, coding agents, and agentic frameworks.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What lives here
+
+This organization hosts the NOVA ecosystem:
+
+- **NOVA Hunting**  
+  Open source detection and hunting engine for prompts and agent workflows.
+
+- **Scanners and Protectors**  
+  Tools built on top of NOVA, such as MCP scanning and coding agent monitoring.
+
+- **Prompt Intelligence**  
+  IoPC prompt intelligence dataset and public taxonomy.
+
+## Documentation
+
+Public documentation is available at:  
+<add docs URL>
+
+## Origin
+
+NOVA is created and maintained by **SecurityBreak**.
+
+## Scope and governance
+
+Security disclosures follow the process defined in `SECURITY.md` of each repository.
