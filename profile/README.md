@@ -1,6 +1,6 @@
 # NOVA Hunting
 
-NOVA is an open platform for detecting and hunting adversarial prompts, agent abuse, and AI system misuse.
+NOVA is an open engine for detecting and hunting adversarial prompts, agent abuse, and AI system misuse.
 
 It focuses on visibility, detection, and policy enforcement across modern AI workflows, including chat systems, coding agents, and agentic frameworks.
 
