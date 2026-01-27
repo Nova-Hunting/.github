@@ -1,4 +1,5 @@
-![Uploading Novacti.png…]()
+
+<img width="3780" height="1890" alt="Novacti" src="https://github.com/user-attachments/assets/8d987c18-7a8a-465c-a194-d47c594eb612" />
 
 # NOVA Hunting
 
