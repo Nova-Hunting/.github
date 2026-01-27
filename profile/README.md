@@ -1,3 +1,5 @@
+![Uploading Novacti.png…]()
+
 # NOVA Hunting
 
 NOVA is an open engine for detecting and hunting adversarial prompts, agent abuse, and AI system misuse.
