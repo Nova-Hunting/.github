@@ -1,34 +1,39 @@
 
 <img width="3780" height="1890" alt="Novacti" src="https://github.com/user-attachments/assets/8d987c18-7a8a-465c-a194-d47c594eb612" />
 
-# NOVA Hunting
+## Nova Hunting  
+AI threat hunting for adversarial prompts and agentic workflows
 
-NOVA is an open engine for detecting and hunting adversarial prompts, agent abuse, and AI system misuse.
+This organization is the main entry point for the Nova ecosystem.
 
-It focuses on visibility, detection, and policy enforcement across modern AI workflows, including chat systems, coding agents, and agentic frameworks.
+Nova is an open source project dedicated to AI security and threat hunting. It focuses on adversarial prompt detection, agentic workflow security, and visibility across AI systems.
 
-## What lives here
+Website: https://novahunting.ai
 
-This organization hosts the NOVA ecosystem:
+## Nova ecosystem
 
-- **NOVA Hunting**  
-  Open source detection and hunting engine for prompts and agent workflows.
+The Nova ecosystem is composed of the following components:
 
-- **Scanners and Protectors**  
-  Tools built on top of NOVA, such as MCP scanning and coding agent monitoring.
+- **Nova Framework**  
+  Core project. Prompt pattern matching and detection engine used for adversarial prompt hunting and policy checks.
 
-- **Prompt Intelligence**  
-  IoPC prompt intelligence dataset and public taxonomy.
+- **Nova Docs**  
+  Documentation repository to start using and understanding the Nova framework.  
+  https://docs.novahunting.ai
 
-## Documentation
+- **Proximity**  
+  MCP scanner built on top of Nova to inspect and monitor agent communications.
 
-Public documentation is available at:  
-<add docs URL>
+- **Nova Rules**  
+  Public repository that hosts shared and community driven Nova detection rules.
 
-## Origin
+## Prompt intelligence
 
-NOVA is created and maintained by **SecurityBreak**.
+Nova is linked to **PromptIntel**, a platform that references adversarial prompts and provides a public classification and taxonomy.  
+https://promptintel.novahunting.ai
 
-## Scope and governance
+This dataset supports detection research and rule creation within the Nova ecosystem.
 
-Security disclosures follow the process defined in `SECURITY.md` of each repository.
+## Governance and security
+
+Each repository defines its own security disclosure process in its `SECURITY.md` file.
