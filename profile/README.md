@@ -4,36 +4,36 @@
 ## Nova Hunting  
 AI threat hunting for adversarial prompts and agentic workflows
 
-This organization is the main entry point for the Nova ecosystem.
+Nova Hunting is the public entry point for the Nova ecosystem.
 
-Nova is an open source project dedicated to AI security and threat hunting. It focuses on adversarial prompt detection, agentic workflow security, and visibility across AI systems.
+Nova is an open source initiative focused on AI security, detection, and threat hunting. It targets adversarial prompts, agent abuse, and misuse patterns across modern AI systems, with an emphasis on visibility and control in agentic workflows.
 
 Website: https://novahunting.ai
 
 ## Nova ecosystem
 
-The Nova ecosystem is composed of the following components:
+The Nova ecosystem brings together tooling, detection logic, and intelligence to support AI threat hunting:
 
 - **Nova Framework**  
-  Core project. Prompt pattern matching and detection engine used for adversarial prompt hunting and policy checks.
+  Core engine of the ecosystem. A prompt pattern matching and detection engine designed to identify adversarial behaviors and enforce security policies.
 
 - **Nova Docs**  
-  Documentation repository to start using and understanding the Nova framework.  
+  Official documentation to install, configure, and start using the Nova framework.  
   https://docs.novahunting.ai
 
 - **Proximity**  
-  MCP scanner built on top of Nova to inspect and monitor agent communications.
+  MCP scanner built on top of Nova, providing inspection and monitoring of agent communications and workflows.
 
 - **Nova Rules**  
-  Public repository that hosts shared and community driven Nova detection rules.
+  Public repository of shared detection rules, enabling community driven research and collaboration.
 
 ## Prompt intelligence
 
-Nova is linked to **PromptIntel**, a platform that references adversarial prompts and provides a public classification and taxonomy.  
+Nova is connected to **PromptIntel**, a platform dedicated to cataloging adversarial prompts and maintaining a public classification and taxonomy.  
 https://promptintel.novahunting.ai
 
-This dataset supports detection research and rule creation within the Nova ecosystem.
+This intelligence layer supports detection research, rule authoring, and continuous improvement of the Nova ecosystem.
 
 ## Governance and security
 
-Each repository defines its own security disclosure process in its `SECURITY.md` file.
+Each repository defines its own scope and security disclosure process in its `SECURITY.md` file.
