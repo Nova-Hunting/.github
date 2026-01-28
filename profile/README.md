@@ -1,8 +1,8 @@
 
 <img width="3780" height="1890" alt="Novacti" src="https://github.com/user-attachments/assets/8d987c18-7a8a-465c-a194-d47c594eb612" />
 
-## Nova Hunting  
-AI threat hunting for adversarial prompts and agentic workflows
+# Nova Hunting  
+## AI threat hunting for adversarial prompts and agentic workflows
 
 Nova Hunting is the public entry point for the Nova ecosystem.
 
