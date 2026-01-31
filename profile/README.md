@@ -21,7 +21,7 @@ The Nova ecosystem brings together tooling, detection logic, and intelligence to
   Official documentation to install, configure, and start using the Nova framework.  
   https://docs.novahunting.ai
 
-- **Proximity**  
+- **Nova Proximity**  
   MCP scanner built on top of Nova, providing inspection and monitoring of agent communications and workflows.
 
 - **Nova Rules**  
