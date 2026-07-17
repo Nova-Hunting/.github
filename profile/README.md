@@ -1,9 +1,9 @@
 <img width="3780" height="1890" alt="NovaOC" src="https://github.com/user-attachments/assets/6e566102-bc56-43c0-aca6-416c8312950e" />
 
-# Nova Hunting  
+# Nova 
 **AI threat hunting for adversarial prompts and agentic workflows**
 
-Nova Hunting is the public entry point for the Nova ecosystem.
+Nova is the public entry point for the opensource Nova ecosystem.
 
 Nova is an open source initiative focused on AI security, detection, and threat hunting. It targets adversarial prompts, agent abuse, and misuse patterns across modern AI systems, with an emphasis on visibility and control in agentic workflows.
 
