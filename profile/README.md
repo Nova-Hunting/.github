@@ -1,5 +1,5 @@
 
-<img width="3780" height="1890" alt="Novacti" src="<img width="3780" height="1890" alt="NovaOC" src="https://github.com/user-attachments/assets/6988ceed-5eca-4f10-a548-bf6e1e633bca" />" />
+<img width="3780" height="1890" alt="Novacti"width="3780" height="1890" alt="NovaOC" src="https://github.com/user-attachments/assets/6988ceed-5eca-4f10-a548-bf6e1e633bca"/>
 
 # Nova Hunting  
 **AI threat hunting for adversarial prompts and agentic workflows**
